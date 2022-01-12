@@ -1,80 +1,197 @@
 [{
-"textCounty" : "ADALAR"
+"imgCounty" : "https://raw.githubusercontent.com/BadLuL1/H5200042MehmetBaytura/main/adalarimg.png",
+"txtCounty" : "ADALAR",
+"txtExplanation" : "",
+"textCounty" : "ADALAR",
 }, {
+"imgCounty" : "https://raw.githubusercontent.com/BadLuL1/H5200042MehmetBaytura/main/arnavutkoyimg.jpg",
+"txtCounty" : "ARNAVUTKÖY",
+"txtExplanation" : "",
 "textCounty" : "ARNAVUTKÖY"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ATAŞEHİR",
+"txtExplanation" : "",
 "textCounty" : "ATAŞEHİR"
 }, {
+"imgCounty" : "",
+"txtCounty" : "AVCILAR",
+"txtExplanation" : "",
 "textCounty" : "AVCILAR"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BAĞCILAR",
+"txtExplanation" : "",
 "textCounty" : "BAĞCILAR"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BAHÇELİEVLER",
+"txtExplanation" : "",
 "textCounty" : "BAHÇELİEVLER"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BAKIRKÖY",
+"txtExplanation" : "",
 "textCounty" : "BAKIRKÖY"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BAŞAKŞEHİR",
+"txtExplanation" : "",
 "textCounty" : "BAŞAKŞEHİR"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BAYRAMPAŞA",
+"txtExplanation" : "",
 "textCounty" : "BAYRAMPAŞA"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BEŞİKTAŞ",
+"txtExplanation" : "",
 "textCounty" : "BEŞİKTAŞ"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BEYKOZ",
+"txtExplanation" : "",
 "textCounty" : "BEYKOZ"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BEYLİKDÜZÜ",
+"txtExplanation" : "",
 "textCounty" : "BEYLİKDÜZÜ"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BEYOĞLU",
+"txtExplanation" : "",
 "textCounty" : "BEYOĞLU"
 }, {
+"imgCounty" : "",
+"txtCounty" : "BÜYÜKÇEKMECE",
+"txtExplanation" : "",
 "textCounty" : "BÜYÜKÇEKMECE"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ÇATALCA",
+"txtExplanation" : "",
 "textCounty" : "ÇATALCA"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ÇEKMEKÖY",
+"txtExplanation" : "",
 "textCounty" : "ÇEKMEKÖY"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ESENLER",
+"txtExplanation" : "",
 "textCounty" : "ESENLER"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ESENYURT",
+"txtExplanation" : "",
 "textCounty" : "ESENYURT"
 }, {
+"imgCounty" : "",
+"txtCounty" : "EYÜPSULTAN",
+"txtExplanation" : "",
 "textCounty" : "EYÜPSULTAN"
 }, {
+"imgCounty" : "",
+"txtCounty" : "FATİH",
+"txtExplanation" : "",
 "textCounty" : "FATİH"
 }, {
+"imgCounty" : "",
+"txtCounty" : "GAZİOSMANPAŞA",
+"txtExplanation" : "",
 "textCounty" : "GAZİOSMANPAŞA"
 }, {
+"imgCounty" : "",
+"txtCounty" : "GÜNGÖREN",
+"txtExplanation" : "",
 "textCounty" : "GÜNGÖREN"
 }, {
+"imgCounty" : "",
+"txtCounty" : "KADIKÖY",
+"txtExplanation" : "",
 "textCounty" : "KADIKÖY"
 }, {
+"imgCounty" : "",
+"txtCounty" : "KAĞITHANE",
+"txtExplanation" : "",
 "textCounty" : "KAĞITHANE"
 }, {
+"imgCounty" : "",
+"txtCounty" : "KARTAL",
+"txtExplanation" : "",
 "textCounty" : "KARTAL"
 }, {
+"imgCounty" : "",
+"txtCounty" : "KÜÇÜKÇEKMECE",
+"txtExplanation" : "",
 "textCounty" : "KÜÇÜKÇEKMECE"
 }, {
+"imgCounty" : "",
+"txtCounty" : "MALTEPE",
+"txtExplanation" : "",
 "textCounty" : "MALTEPE"
 }, {
+"imgCounty" : "",
+"txtCounty" : "PENDİK",
+"txtExplanation" : "",
 "textCounty" : "PENDİK"
 }, {
+"imgCounty" : "",
+"txtCounty" : "SANCAKTEPE",
+"txtExplanation" : "",
 "textCounty" : "SANCAKTEPE"
 }, {
+"imgCounty" : "",
+"txtCounty" : "SARIYER",
+"txtExplanation" : "",
 "textCounty" : "SARIYER"
 }, {
+"imgCounty" : "",
+"txtCounty" : "SİLİVRİ",
+"txtExplanation" : "",
 "textCounty" : "SİLİVRİ"
 }, {
+"imgCounty" : "",
+"txtCounty" : "SULTANBEYLİ",
+"txtExplanation" : "",
 "textCounty" : "SULTANBEYLİ"
 }, {
+"imgCounty" : "",
+"txtCounty" : "SULTANGAZİ",
+"txtExplanation" : "",
 "textCounty" : "SULTANGAZİ"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ŞİLE",
+"txtExplanation" : "",
 "textCounty" : "ŞİLE"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ŞİŞLİ",
+"txtExplanation" : "",
 "textCounty" : "ŞİŞLİ"
 }, {
+"imgCounty" : "",
+"txtCounty" : "TUZLA",
+"txtExplanation" : "",
 "textCounty" : "TUZLA"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ÜMRANİYE",
+"txtExplanation" : "",
 "textCounty" : "ÜMRANİYE"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ÜSKÜDAR",
+"txtExplanation" : "",
 "textCounty" : "ÜSKÜDAR"
 }, {
+"imgCounty" : "",
+"txtCounty" : "ZEYTİNBURNU",
+"txtExplanation" : "",
 "textCounty" : "ZEYTİNBURNU"
 }
  
