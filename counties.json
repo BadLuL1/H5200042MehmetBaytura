@@ -1,12 +1,14 @@
 [
-  {
-    "textCounty" : "ADALAR",
-  },
-  {
-    "textCounty" : "ARNAVUTKÖY",
-  },
-  {
-    "textCounty" : "AVCILAR",
-  }
+    {
+          "textCounty" : "ADALAR"
+    },
+
+    {
+         "textCounty" : "ARNAVUTKÖY"
+    },
+
+    {
+         "textCounty" : "AVCILAR"
+    }
 
 ]
