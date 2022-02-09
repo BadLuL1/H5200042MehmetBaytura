@@ -2,7 +2,7 @@
 Medipol Üniversitesi final projem içindir. Veri tabanı olarak github tercih edilmiştir. Github'dan veri çekilerek (Resim, Açıklama yazıları, Başlık yazıları vs.) 
 tasarlanan projede kullanılmıştır. Projenin çalışır fotoğrafları ektedir.
 -
-Uygulamaya giriş yapıldığında ilk ekran.
+Uygulamaya giriş yapıldığında ilk ekran. (3 saniye sonra bu ekran ölür.)
 
 ![image](https://user-images.githubusercontent.com/83245576/153304002-8405b192-d172-4042-bf6e-916d1702ccac.png)
 -
