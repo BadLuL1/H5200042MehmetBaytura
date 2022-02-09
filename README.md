@@ -1,5 +1,5 @@
 # H5200042MehmetBaytura
-Medipol Üniversitesi için veri tabanı olarak github tercih edilmiştir. Githubdan veri çekilerek (Resim, Açıklama yazıları, Başlık yazıları vs.) 
+Medipol Üniversitesi final projem içindir. Veri tabanı olarak github tercih edilmiştir. Githubdan veri çekilerek (Resim, Açıklama yazıları, Başlık yazıları vs.) 
 tasarlanan projede kullanılmıştır. Projenin çalışır fotoğrafları ektedir.
 -
 Uygulamaya giriş yapıldığında ilk ekran.
