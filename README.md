@@ -1,17 +1,17 @@
 # H5200042MehmetBaytura
 Medipol Üniversitesi final projem içindir. Veri tabanı olarak github tercih edilmiştir. Github'dan veri çekilerek (Resim, Açıklama yazıları, Başlık yazıları vs.) 
 tasarlanan projede kullanılmıştır. Projenin çalışır fotoğrafları ektedir.
--
+--
 Uygulamaya giriş yapıldığında ilk ekran. (3 saniye sonra bu ekran ölür.)
 
 ![image](https://user-images.githubusercontent.com/83245576/153304002-8405b192-d172-4042-bf6e-916d1702ccac.png)
--
+--
 Uygulamada internet bağlantısı yoksa ekranda belirtildiği gibi hata verip internete bağlı olmanız gerektiğini göstermetedir.
 "Kapat" butonu uygulamayı kapatır.
 "İnterneti Aç" butonu telefonu interneti açma ekranına yönlendirir. (wifi yada mobil veri)
 
 ![image](https://user-images.githubusercontent.com/83245576/153304054-460bbd82-2f5a-43b3-9222-056eeb63f014.png)
--
+--
 İstanbul'un tüm ilçeleri uygulamada mevcuttur. Merak edilen ilçenin üzerine tıklanarak ilçe bilgileri ekranına geçiş yapılabilir.
 
 ![image](https://user-images.githubusercontent.com/83245576/153304062-4bdcc00f-b549-418e-b55c-9aca53271d65.png)
